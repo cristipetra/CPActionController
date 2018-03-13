@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CPActionController_Example' do
+  pod 'CPActionController', :path => '../'
+
+  target 'CPActionController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
