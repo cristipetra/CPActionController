@@ -1,0 +1,16 @@
+PODS:
+  - CPActionController (0.1.0)
+
+DEPENDENCIES:
+  - CPActionController (from `../`)
+
+EXTERNAL SOURCES:
+  CPActionController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CPActionController: f30f20fbed5e0253b51ea99f47f1ea23be796e36
+
+PODFILE CHECKSUM: cb6bb8d7e72668acf9bd6111c81ab65e5f1ebac7
+
+COCOAPODS: 1.4.0

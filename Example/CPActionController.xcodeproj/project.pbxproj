@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1B8BACB00E3D8159828CC9EE /* CPActionController.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CPActionController.podspec; path = ../CPActionController.podspec; sourceTree = "<group>"; };
+		1B8BACB00E3D8159828CC9EE /* CPActionController.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CPActionController.podspec; path = ../CPActionController.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* CPActionController_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CPActionController_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -39,10 +39,10 @@
 		607FACE51AFB9204008FA782 /* CPActionController_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CPActionController_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		9EF22BD1EA997ABA3BA2D9C0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		9EF22BD1EA997ABA3BA2D9C0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		ACCC6D694CD9062596519823 /* Pods_CPActionController_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CPActionController_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1FA389392F134ECA40A582B /* Pods-CPActionController_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CPActionController_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-CPActionController_Example/Pods-CPActionController_Example.release.xcconfig"; sourceTree = "<group>"; };
-		B72A3B2557175023452AE52D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		B72A3B2557175023452AE52D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		DFD733AC2957701DB280457E /* Pods-CPActionController_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CPActionController_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CPActionController_Example/Pods-CPActionController_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E5FB787A005FF512DDDCCABD /* Pods_CPActionController_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CPActionController_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4F62B0E32D15BADCB321368 /* Pods-CPActionController_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CPActionController_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CPActionController_Tests/Pods-CPActionController_Tests.release.xcconfig"; sourceTree = "<group>"; };
